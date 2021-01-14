@@ -1,0 +1,1 @@
+Merci de ne pas oublier d'utiliser venv38 comme interpreteur pour demarer l'application.
